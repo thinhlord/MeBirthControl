@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_card_birth_control_name">Tên thuốc tránh thai</string>
+    <string name="title_card_birth_control_type">Loại thuốc tránh thai</string>
+    <string name="hint_card_medication_name">Nhập tên thuốc hoặc tên bệnh mà loại thuốc này dùng để điều trị</string>
+    <string name="title_card_remind">Thời điểm nhắc nhở</string>
+    <string name="text_start_date">Ngày bắt đầu:</string>
+    <string name="set_reminder">Đặt nhắc nhở</string>
+</resources>

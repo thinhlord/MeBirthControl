@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="birth_control_cycles">
+        <item>21 + 7</item>
+        <item>24 + 4</item>
+        <item>28 + 0</item>
+    </string-array>
+
+</resources>

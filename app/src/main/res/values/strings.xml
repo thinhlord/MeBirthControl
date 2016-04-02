@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MeBirthControl</string>
+
+    <string name="title_card_birth_control_name">Pill name</string>
+    <string name="title_card_birth_control_type">Cycle</string>
+    <string name="hint_card_medication_name">Enter the name of this pill</string>
+    <string name="title_card_remind">Time</string>
+    <string name="text_start_date">Start Date:</string>
+    <string name="set_reminder">Set Remind</string>
+
+    <string name="no_pill_set">No pill set</string>
+    <string name="set_pill">Setup pill</string>
+    <string name="time_until_next_pill">Time until next pill</string>
+    <string name="take_placebo_pills_on_break_days">Take Placebo Pills On Break Days</string>
+
+</resources>
